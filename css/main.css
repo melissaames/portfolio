@@ -11,13 +11,16 @@
 -------------------------------------------------------------------------------*/
 
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Nunito');
 
 p {
+	font-family: 'Nunito', sans-serif;
 	font-size: 14px;
 	line-height: 22.4px;
 	color: #6c7279;
 }
 h1 {
+	font-family: 'Playfair Display', serif;
 	font-size: 65px;
 	color: #2d3033;
 }
